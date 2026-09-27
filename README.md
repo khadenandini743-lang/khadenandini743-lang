@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Nandini Khade 👋
 
-<!--
-**khadenandini743-lang/khadenandini743-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student | Aspiring Java Developer**
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently pursuing B.Tech in Computer Science & Engineering
+* ☕ Learning and building projects with **Java**
+* 🌐 Exploring **Web Development**
+* ☁️ Exploring **Cloud Technologies**
+* 💡 Interested in building practical and useful projects
+* 🧩 Improving my programming and problem-solving skills
+
+## 🛠️ Skills
+
+* ☕ Java
+* 🌐 HTML
+* 🎨 CSS
+* 🔧 Git & GitHub
+* ☁️ Basic Cloud Concepts
+
+## 📌 Projects
+
+* 📝 **Student Registration Form** — HTML & CSS
+* ☕ **MaleSenderAppSAIT** — Java
+* 💻 **SAIT Java Codes** — Java
+
+## 🎯 Current Goal
+
+> 🚀 Building strong development skills and becoming **job-ready as a Java Developer**.
+
+## 📚 Currently Learning
+
+**Java • Web Development • Git & GitHub • Cloud**
+
+---
+
+⭐ *Learning every day. Building step by step. Growing continuously.*
+

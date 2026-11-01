@@ -13,11 +13,11 @@
 
 ## 🛠️ Skills
 
-* ☕ Java
+* ☕ Core Java, OOPs
 * 🌐 HTML
-* 🎨 CSS
-* 🔧 Git & GitHub
-* ☁️ Basic Cloud Concepts
+* 🎨 CSS,JavaScript
+* 🔧 Git, GitHub
+* ☁️ Cloud Fundamentals
 
 ## 📌 Projects
 
@@ -31,7 +31,7 @@
 
 ## 📚 Currently Learning
 
-**Java • Web Development • Git & GitHub • Cloud**
+**Java • Web Development • Git & GitHub • Cloud ,Spring Boot, SQL, REST API**
 
 ---
 

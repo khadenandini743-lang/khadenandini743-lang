@@ -1,39 +1,73 @@
-# Hi, I'm Nandini Khade 👋
+# Hi, I'm Nandini Khade! 👋
 
-🎓 **B.Tech CSE Student | Aspiring Java Developer**
+🎓 B.Tech Computer Science Engineering Student  
+💻 Aspiring Java Backend Developer  
+📍 Indore, India
 
 ## 👩‍💻 About Me
 
-* 🎓 Currently pursuing B.Tech in Computer Science & Engineering
-* ☕ Learning and building projects with **Java**
-* 🌐 Exploring **Web Development**
-* ☁️ Exploring **Cloud Technologies**
-* 💡 Interested in building practical and useful projects
-* 🧩 Improving my programming and problem-solving skills
+- Currently pursuing B.Tech in Computer Science Engineering.
+- Interested in Java Backend Development.
+- Learning Spring Boot, REST APIs and SQL.
+- Building practical projects to improve my development skills.
+- Looking for a Paid Java Developer Internship / Trainee Opportunity.
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-* ☕ Core Java, OOPs
-* 🌐 HTML
-* 🎨 CSS,JavaScript
-* 🔧 Git, GitHub
-* ☁️ Cloud Fundamentals
+**Programming Languages**
+- Java
+- JavaScript
 
-## 📌 Projects
+**Frontend Development**
+- HTML
+- CSS
 
-* 📝 **Student Registration Form** — HTML & CSS
-* ☕ **MaleSenderAppSAIT** — Java
-* 💻 **SAIT Java Codes** — Java
+**Backend Development**
+- Core Java
+- Spring Boot (Beginner)
+- REST APIs (Learning)
 
-## 🎯 Current Goal
+**Database**
+- SQL (Basics)
+- H2 Database (Basic Experience)
 
-> 🚀 Building strong development skills and becoming **job-ready as a Java Developer**.
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman (Learning)
 
-## 📚 Currently Learning
+## 🚀 My Projects
 
-**Java • Web Development • Git & GitHub • Cloud ,Spring Boot, SQL, REST API**
+### 1. SHILPSETU-AI
+An artisan marketplace project designed to help local artisans showcase and manage handmade products.
 
----
+**Technologies:** HTML, CSS, JavaScript, Java, Spring Boot, H2 Database.
 
-⭐ *Learning every day. Building step by step. Growing continuously.*
+### 2. Student Registration Form
+A responsive student registration form created using HTML and CSS.
 
+### 3. Spotify Clone
+A frontend project inspired by Spotify's user interface.
+
+### 4. Java Practice Programs
+Java programs created while learning Core Java concepts.
+
+## 🌱 Currently Learning
+
+- Core Java and OOPs
+- Spring Boot
+- REST API Development
+- SQL and Database Connectivity
+- Data Structures and Algorithms
+- Git and GitHub
+
+## 🎯 Career Goal
+
+To become a skilled Java Backend Developer by learning, building real-world projects and gaining practical industry experience.
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/khadenandini743-lang
+
+⭐ Learning every day. Building step by step. Growing continuously.
